@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+body {
+  margin: 1em;
+  background: #161616;
+  color: white;
+}
+
+canvas {
+  /* outline: solid 1ex magenta; */
+}
